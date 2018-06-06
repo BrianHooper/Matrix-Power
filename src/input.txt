@@ -1,0 +1,6 @@
+# matrix type, width, lowerbound, upperbound, sparsity, timefunction, power
+# matrix type: 0 for DenseMatrix, 1 for SparseMatrix, 2 for ListMatrix
+
+0,100,0.0,1.0,0.001,0,3
+1,100,0.0,1.0,0.001,0,3
+2,100,0.0,1.0,0.001,0,3
